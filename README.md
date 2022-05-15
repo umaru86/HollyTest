@@ -1,2 +1,2 @@
 # SuzuTest
-private project
+this project is private what can use limited person.
