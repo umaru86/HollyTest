@@ -1,2 +1,3 @@
-# SuzuTest
-this project is private what can use limited person.
+# HollyTest
+this project is public what can use everyone.
+git初心者がテストするためのプロジェクトです。
